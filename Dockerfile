@@ -18,4 +18,6 @@ EXPOSE 3000
 
 COPY ./run.sh /run.sh
 
+RUN chmod 500 /run.sh
+
 ENTRYPOINT ["/run.sh"]
