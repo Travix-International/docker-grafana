@@ -1,6 +1,10 @@
 # Grafana Docker image
 
-This project builds a Docker image with the latest master build of Grafana.
+This project builds a Docker image with the latest master build of [Grafana](http://grafana.org/).
+
+[![Stars](https://img.shields.io/docker/stars/travix/grafana.svg)](https://hub.docker.com/r/travix/grafana/)
+[![Pulls](https://img.shields.io/docker/pulls/travix/grafana.svg)](https://hub.docker.com/r/travix/grafana/)
+[![License](https://img.shields.io/github/license/Travix-International/docker-grafana.svg)](https://github.com/Travix-International/docker-grafana/blob/master/LICENSE)
 
 ## Running your Grafana container
 
