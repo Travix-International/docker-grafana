@@ -1,6 +1,6 @@
 FROM travix/base-debian:latest
 
-ENV GRAFANA_VERSION=4.0.0
+ENV GRAFANA_VERSION=4.0.0-1480439068
 
 RUN apt-get update && \
     apt-get -y --no-install-recommends install libfontconfig curl ca-certificates && \
